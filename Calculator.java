@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class Calculator {
 
     // Method for addition
-    public static double add(double num1, double num2) {
-        return num1 + num2;
+    public static double add(double num1, double num2, double num3) {
+        return num1 + num2 + num3;
     }
 
     // Method for subtraction
