@@ -1,9 +1,9 @@
 // Calculator.java
 public class Calculator {
 
-    // Method to add three numbers
-    public double add(double num1, double num2, double num3) {
-        return num1 + num2 + num3;
+    // Method to add four numbers
+    public double add(double num1, double num2, double num3, double num4) {
+        return num1 + num2 + num3 + num4;
     }
 
     // Method to subtract the second number from the first
