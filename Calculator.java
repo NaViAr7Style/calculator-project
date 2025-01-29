@@ -8,6 +8,7 @@ public class Calculator {
     }
 
     // Method for subtraction
+    // Some change made locally from the first user
     public static double subtract(double num1, double num2) {
         return num1 - num2;
     }
