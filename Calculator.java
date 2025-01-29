@@ -8,6 +8,7 @@ public class Calculator {
     }
 
     // Method for subtraction
+    // Some chance made from another user on the server
     public static double subtract(double num1, double num2) {
         return num1 - num2;
     }
